@@ -1,3 +1,3 @@
-# https://www.robotstxt.org/robotstxt.html
+Sitemap: 
 User-agent: *
-Disallow:
+Disallow: /test/
