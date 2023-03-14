@@ -7,7 +7,7 @@ import { TextDecrypt } from "../content/TextDecrypt";
 
 import './Works.css';
 
-import Lacalle from '../../assets/recentprojects/lacalle.png';
+import Lacalle from '../../assets/projects/lacalle.png';
 
 const useStyles = makeStyles((theme) => ({
   main: {
